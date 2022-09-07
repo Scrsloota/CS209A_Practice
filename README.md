@@ -1,3 +1,4 @@
-# CS209A_Practice
+# CS209A Practice
 
-This repository is used to record the **homework** and **lab** for class CS209A.
+This repository is used to record homework and lab practice in class CS209A.
+
